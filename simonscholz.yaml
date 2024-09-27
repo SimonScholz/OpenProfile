@@ -1,0 +1,102 @@
+username: SimonScholz
+email:
+  value: contact@simonscholz.dev
+  publiclyAvailable: true
+phone:
+  value: "+1234567890"
+  publiclyAvailable: true
+fullName: Simon Scholz
+picture: https://simonscholz.dev/assets/me.CaLPVNCV.webp
+age: 38
+location: Hamburg, Germany
+introduction: >
+  Experienced software engineer with a focus on backend development, cloud integration, and API design.
+graduation: Master of Computer Science
+freelancingSince: 2015
+experience: more than 10 years
+availability:
+  status: partial available
+  until: 2024-12-31
+willingnessToTravel:
+  option: only certain countries
+  countries:
+    - Germany
+    - Switzerland
+    - Austria
+skills: |
+  - Programming languages: Kotlin, Java, Python
+  - Cloud Platforms: Google Cloud Platform (GCP), Microsoft Azure
+  - Tools: Gradle, jOOQ, Quarkus
+projectHistory:
+  - from: 2022-01
+    until: 2023-06
+    role: Senior Backend Developer
+    tasks: >
+      Developed and maintained microservices for a large-scale cloud application, integrated with GCP services.
+    company: Acme Corporation
+    companySize: 1000-5000
+    industry: Technology
+  - from: 2021-03
+    until: 2021-12
+    role: Lead Developer
+    tasks: >
+      Led a team to develop and deploy a REST API workflow using Azure Logic Apps, and integrated it with multiple services.
+    company: Tech Solutions Ltd.
+    companySize: 500-1000
+    industry: Consulting
+categories:
+  - Cloud Development
+  - Backend Development
+  - DevOps
+hourlyRate:
+  amount: 115
+  currency: EUR
+dailyRate:
+  amount: 920
+  currency: EUR
+rateComment: Negotiable for long-term contracts
+website: https://simonscholz.dev
+skype: john_doe_skype
+youtube:
+  link: https://www.youtube.com/channel/UC1234567890abcdef
+  description: Video tutorials on software architecture and cloud development
+certificates:
+  - title: Google Cloud Professional Architect
+    certificationAuthority: Google
+    certificationAuthorityWebsite: https://cloud.google.com/certification
+    exhibitionYear: 2020
+  - title: Microsoft Certified Azure Developer Associate
+    certificationAuthority: Microsoft
+    certificationAuthorityWebsite: https://learn.microsoft.com/en-us/certifications/azure-developer
+    exhibitionYear: 2021
+insurances:
+  - Professional Liability Insurance
+  - Health Insurance
+references:
+  - name: Jane Smith
+    company: Tech Solutions Ltd.
+    contact: jane.smith@example.com
+  - name: Bob Johnson
+    company: Acme Corporation
+    contact: bob.johnson@example.com
+legalEntity: sole proprietor
+taxInformation:
+  vatNumber: DE123456789
+  taxRegion: Berlin, Germany
+tools:
+  - IntelliJ IDEA
+  - Docker
+  - Kubernetes
+testimonials:
+  - client: Jane Smith, Tech Solutions Ltd.
+    feedback: >
+      John is an excellent developer with deep cloud expertise. He successfully led several critical projects and consistently delivered high-quality work.
+  - client: Bob Johnson, Acme Corporation
+    feedback: >
+      John provided invaluable insights on cloud architecture and backend optimization. His contributions significantly improved our system's performance.
+otherInformation: |
+  Open to both freelance and full-time consulting opportunities. Available for remote work.
+interests:
+  - Cloud Computing
+  - Machine Learning
+  - Software Architecture
